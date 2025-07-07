@@ -1,0 +1,1 @@
+Bonjour et bienvenue dans votre premier fichier.txt, cree dans l'academie des codeurs pour pouvoir  travailler dans une invite de commande 
